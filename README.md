@@ -32,7 +32,7 @@
 <h1 align="center">Team ID : PNT2022TMID39730</h1>
 <h4 align="center">Team Leader : Prasanth S</h4>
 <h4 align="center">Team Member 1 : Janani S</h4>
-<h4 align="center">Team Member 1 : Madeshwaran K</h4>
+<h4 align="center">Team Member 2 : Madeshwaran K</h4>
 <h4 align="center">Team Member 3 : Sanjai P</h4>
 <h4 align="center">Team Member 4 : Venkatakrishnan G</h4>
 
