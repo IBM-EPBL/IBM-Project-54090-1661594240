@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url('../img/backgroud_image.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: blur(1px);
+    color: white;
+
+}
+.content-text{
+    text-indent: 10px;
+}
+
