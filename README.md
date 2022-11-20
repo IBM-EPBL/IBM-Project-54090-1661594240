@@ -46,8 +46,7 @@ The project aims to develop a system that converts the sign language into a huma
 </p>
 </div>
 
-<div>demo link :- 
-<iframe width="420" height="345" src="https://youtu.be/-r-pXrfxYk4">
-</iframe>
+<div>demo link :- https://youtu.be/-r-pXrfxYk4
+
 </div>
 
